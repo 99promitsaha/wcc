@@ -95,28 +95,28 @@ header {
   }
 
   .hero-title {
-    font-size: 3em; /* Smaller font size for the title */
-    padding: 30px; /* Reduced padding */
+    font-size: 3em; 
+    padding: 30px; 
     text-align: left;
   }
 
   .navigation .nav-list {
-    flex-direction: row; /* Stack the navigation items */
-    align-items: center; /* Center align items */
+    flex-direction: row; 
+    align-items: center; 
     padding: 1em;
   }
 
   .nav-item {
-    margin: 5px 0; /* Adjust margin for stacked items */
+    margin: 5px 0; 
   }
 
   .nav-item a {
-    padding: 5px 0; /* Adjust padding for stacked items */
+    padding: 5px 0; 
   }
 
   .community-link .join-button {
-    font-size: 1em; /* Smaller font size for button */
-    padding: 15px 30px; /* Adjust padding */
+    font-size: 1em; 
+    padding: 15px 30px; 
   }
 
   .fa-icon {
